@@ -10,7 +10,7 @@
 </div>
 
 <h4 align="center">
-  <a href="https://jekyllrb.com/" target="_blank"><code>Jekyll</code></a> theme for elegant writers.
+  <a href="https://jekyllrb.com/" target="_blank"><code>Jekyll</code></a> themes for elegant writers.
 </h4>
 
 <p align="center">
